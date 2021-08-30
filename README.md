@@ -2,7 +2,7 @@
 
 - 🔭 Hoje procuro Estágio como Dev Full-Stack
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele https://i.redd.it/n3ssabp1hvz51.gif
+- 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/Diego-k2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-k2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
