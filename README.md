@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Diego Silva
 
-- 🔭 Hoje procuro Estágio como Dev Full-Stack
+- 🔭 Hoje procuro Estágio como Desenvolvedor Java
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 <div>
