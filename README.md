@@ -19,6 +19,6 @@
    <img align="right" height="150" width="200" alt="Rafa-yoda" src="https://i.redd.it/n3ssabp1hvz51.gif">
 </div> 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Diego-k2/Diego-k2/blob/output/github-contribution-grid-snake.svg)
   
    
