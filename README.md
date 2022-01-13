@@ -3,11 +3,7 @@
 - 🔭 Hoje procuro Estágio como Desenvolvedor Java
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
-<div>
-  <a href="https://github.com/Diego-k2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-k2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-k2&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Die-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
