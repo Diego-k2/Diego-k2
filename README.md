@@ -24,6 +24,14 @@
 
 Gosto de transformar ideias em soluções e de aprender construindo. Aqui você encontra projetos, estudos e experimentos com desenvolvimento web, aplicações e APIs.
 
+## 🐍 Snake das contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego-k2/Diego-k2/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diego-k2/Diego-k2/output/github-snake.svg">
+  <img alt="Animação Snake consumindo as contribuições do GitHub" src="https://raw.githubusercontent.com/Diego-k2/Diego-k2/output/github-snake.svg">
+</picture>
+
 ## 🧰 Tecnologias
 
 **Linguagens e desenvolvimento**
